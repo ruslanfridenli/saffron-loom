@@ -5,3 +5,4 @@
 - patch 4 — saffron loom — sql lab
 - patch 5 — saffron loom — sql lab
 - patch 6 — saffron loom — sql lab
+- patch 7 — saffron loom — sql lab
